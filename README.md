@@ -1,4 +1,4 @@
-Star Wars watch order I prefer
+# Star Wars franchise watch order I prefer.
 
 0. Rogue One
 1. Star Wars
@@ -8,4 +8,5 @@ Star Wars watch order I prefer
 5. The Mandalorian 
 6. The Force Awakens
 7. The Last Jedi
-Don't watch The Rise of Skywalker :)
+
+PS: Don't watch The Rise of Skywalker for your own sake.
